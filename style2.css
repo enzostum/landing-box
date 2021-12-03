@@ -1,0 +1,33 @@
+.conhecimentos-back h1 {
+    width: 200px;
+    text-align: center;
+
+}
+.single-conhecimento { 
+    max-width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 20px;
+}
+
+.single-conhecimento p {
+    text-align: justify;
+}
+.single-conhecimento img {
+    width: 80px;
+    height: 80px;
+}
+.main-bar { 
+    display: flex;
+    flex-wrap: wrap;
+}
+.main-bar i {
+    color: black;
+    font-size: 80px;
+    width: 20%;
+    
+}
+
+#jv {
+    color: #A44A3F;
+}
