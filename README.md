@@ -10,7 +10,11 @@
 
  <h2>Seção de Conteudos</h2>
  <ul>
-   • <a href="#sobre">Sobre</a> •
-   <a href="#experiencia">Experiencias</a> • 
-   <a href="#conhecimentos">Conhecimentos</a> 
+   • <a href="#">Sobre</a> •
+   <a href="#">Experiencias</a> • 
+   <a href="#">Conhecimentos</a> 
  </ul>
+
+<h2> 🛠 Tecnologias </h2>
+
+<p> As seguintes ferramentas foram usadas na construção do projeto: </p> 
