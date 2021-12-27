@@ -12,6 +12,7 @@
 
 .single-conhecimento p {
     text-align: justify;
+    width: 100%;
 }
 .single-conhecimento img {
     width: 80px;
@@ -26,8 +27,4 @@
     font-size: 80px;
     width: 20%;
     
-}
-
-#jv {
-    color: #A44A3F;
 }
